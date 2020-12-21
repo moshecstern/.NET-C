@@ -58,3 +58,5 @@ C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\bin\MCD\D
 C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\bin\MCD\Debug\net5.0\zh-Hans\Humanizer.resources.dll
 C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\bin\MCD\Debug\net5.0\zh-Hant\Humanizer.resources.dll
 C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\obj\MCD\Debug\net5.0\DotNetDependencies.csproj.CopyComplete
+C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\bin\MCD\Debug\net5.0\az\Humanizer.resources.dll
+C:\Users\Moshe Stern\Documents\CodingMo\.NET\.NET-C\DotNetDependencies\bin\MCD\Debug\net5.0\hy\Humanizer.resources.dll
